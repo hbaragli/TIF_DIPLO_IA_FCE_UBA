@@ -151,7 +151,7 @@ def lanzar_gui(vectordb):
     chat_area.insert(
         tk.END,
         "Bienvenido/a al asistente de la Diplomatura en IA Aplicada a Entornos Digitales de Gestión (FCE-UB).\n"
-        "Escribe tu consulta sobre los materiales y recibirás una respuesta basada en los documentos cargados.\n\n",
+        "Escribí tu consulta sobre los materiales y recibirás una respuesta basada en los documentos cargados.\n\n",
         'bot'
     )
     chat_area.config(state='disabled')
